@@ -1,0 +1,21 @@
+[
+    {
+        "Author": "suraimu752",
+        "Name": "URLOpener",
+        "Punchline": "Open URL from Party finder description.",
+        "Description": "Open URL from Party finder description.",
+        "InternalName": "URLOpener",
+        "AssemblyVersion": "0.1",
+        "RepoUrl": "https://github.com/suraimu752/URLOpener",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 7,
+        "DownloadLinkInstall": "https://github.com/chalkos/Marketbuddy/raw/main/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/chalkos/Marketbuddy/raw/main/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/chalkos/Marketbuddy/raw/main/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1632419669",
+        "Changelog": "patch 6.2 fix, dalamud api7 and .net6"
+    }
+]

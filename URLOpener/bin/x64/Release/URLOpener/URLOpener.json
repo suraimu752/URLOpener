@@ -1,0 +1,16 @@
+{
+  "Author": "suraimu752",
+  "Name": "URLOpener",
+  "InternalName": "URLOpener",
+  "AssemblyVersion": "0.0.0.2",
+  "Description": "Open URL from Party finder description.",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "URL",
+    "PartyFinder",
+    "LookingForGroup"
+  ],
+  "DalamudApiLevel": 7,
+  "LoadPriority": 0,
+  "Punchline": "Open URL from Party finder description."
+}
