@@ -1,0 +1,13 @@
+{
+    "Author": "suraimu752",
+    "Name": "URLOpener",
+    "Punchline": "Open URL from Party finder description.",
+    "Description": "Open URL from Party finder description.",
+    "InternalName": "URLOpenerBySuraimu752",
+    "ApplicableVersion": "any",
+    "Tags": [
+        "URL",
+        "PartyFinder",
+        "LookingForGroup"
+    ]
+}
