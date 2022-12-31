@@ -9,13 +9,13 @@
         "RepoUrl": "https://github.com/suraimu752/URLOpener",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 7,
-        "DownloadLinkInstall": "https://github.com/chalkos/Marketbuddy/raw/main/latest.zip",
+        "DownloadLinkInstall": "https://github.com/suraimu752/URLOpener/blob/master/URLOpener/bin/x64/Release/URLOpener/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/chalkos/Marketbuddy/raw/main/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/chalkos/Marketbuddy/raw/main/latest.zip",
+        "DownloadLinkTesting": "https://github.com/suraimu752/URLOpener/blob/master/URLOpener/bin/x64/Release/URLOpener/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/suraimu752/URLOpener/blob/master/URLOpener/bin/x64/Release/URLOpener/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1632419669",
-        "Changelog": "patch 6.2 fix, dalamud api7 and .net6"
+        "LastUpdated": "1672507313",
+        "Changelog": "First upload."
     }
 ]
