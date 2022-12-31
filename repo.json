@@ -2,10 +2,10 @@
     {
         "Author": "suraimu752",
         "Name": "URLOpener",
-        "Punchline": "Open URL from Party finder description.",
-        "Description": "Open URL from Party finder description.",
+        "Punchline": "Open URL from Party finder detail.",
+        "Description": "You can open the URL by clicking on 'Open URL' under 'Copy' that is displayed when you click on the detailed text of the Party Finder.",
         "InternalName": "URLOpener",
-        "AssemblyVersion": "0.1",
+        "AssemblyVersion": "0.1.0.1",
         "RepoUrl": "https://github.com/suraimu752/URLOpener",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 7,
