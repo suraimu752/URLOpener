@@ -8,14 +8,14 @@
         "AssemblyVersion": "0.1.0.2",
         "RepoUrl": "https://github.com/suraimu752/URLOpener",
         "ApplicableVersion": "any",
-        "DalamudApiLevel": 7,
+        "DalamudApiLevel": 8,
         "DownloadLinkInstall": "https://github.com/suraimu752/URLOpener/raw/master/URLOpener/bin/x64/Release/URLOpener/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/suraimu752/URLOpener/raw/master/URLOpener/bin/x64/Release/URLOpener/latest.zip",
         "DownloadLinkUpdate": "https://github.com/suraimu752/URLOpener/raw/master/URLOpener/bin/x64/Release/URLOpener/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1672507314",
+        "LastUpdated": "1673890716",
         "Changelog": "Support 6.3"
     }
 ]
