@@ -5,7 +5,7 @@
         "Punchline": "Open URL from Party finder detail.",
         "Description": "You can open the URL by clicking on 'Open URL' under 'Copy' that is displayed when you click on the detailed text of the Party Finder.",
         "InternalName": "URLOpener",
-        "AssemblyVersion": "0.1.0.1",
+        "AssemblyVersion": "0.1.0.2",
         "RepoUrl": "https://github.com/suraimu752/URLOpener",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 7,
@@ -16,6 +16,6 @@
         "DownloadLinkUpdate": "https://github.com/suraimu752/URLOpener/raw/master/URLOpener/bin/x64/Release/URLOpener/latest.zip",
         "DownloadCount": 0,
         "LastUpdated": "1672507313",
-        "Changelog": "First upload."
+        "Changelog": "Support 6.3"
     }
 ]

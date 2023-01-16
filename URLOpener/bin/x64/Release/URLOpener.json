@@ -10,7 +10,10 @@
     "PartyFinder",
     "LookingForGroup"
   ],
-  "DalamudApiLevel": 7,
+  "DalamudApiLevel": 8,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
   "LoadPriority": 0,
-  "Punchline": "Open URL from Party finder description."
+  "Punchline": "Open URL from Party finder description.",
+  "AcceptsFeedback": true
 }

@@ -6,11 +6,11 @@
     <Version>0.1.0.1</Version>
     <Description>Open URL from Party finder description.</Description>
     <Copyright></Copyright>
-    <PackageProjectUrl>https://github.com/goatcorp/SamplePlugin</PackageProjectUrl>
+    <PackageProjectUrl></PackageProjectUrl>
   </PropertyGroup>
 
   <PropertyGroup>
-    <TargetFramework>net6.0-windows</TargetFramework>
+    <TargetFramework>net7.0-windows8.0</TargetFramework>
     <Platforms>x64</Platforms>
     <Nullable>enable</Nullable>
     <LangVersion>latest</LangVersion>
@@ -23,6 +23,7 @@
 
   <PropertyGroup>
     <DalamudLibPath>$(appdata)\XIVLauncher\addon\Hooks\dev\</DalamudLibPath>
+    <SupportedOSPlatformVersion>8.0</SupportedOSPlatformVersion>
   </PropertyGroup>
   
    <PropertyGroup Condition="'$([System.Runtime.InteropServices.RuntimeInformation]::IsOSPlatform($([System.Runtime.InteropServices.OSPlatform]::Linux)))'">
@@ -31,7 +32,7 @@
 
   <ItemGroup>
     <PackageReference Include="Dalamud.ContextMenu" Version="1.2.1" />
-    <PackageReference Include="DalamudPackager" Version="2.1.8" />
+    <PackageReference Include="DalamudPackager" Version="2.1.10" />
     <Reference Include="FFXIVClientStructs">
       <HintPath>$(DalamudLibPath)FFXIVClientStructs.dll</HintPath>
       <Private>false</Private>

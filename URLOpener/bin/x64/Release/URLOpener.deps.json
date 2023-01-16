@@ -1,15 +1,15 @@
 {
   "runtimeTarget": {
-    "name": ".NETCoreApp,Version=v6.0",
+    "name": ".NETCoreApp,Version=v7.0",
     "signature": ""
   },
   "compilationOptions": {},
   "targets": {
-    ".NETCoreApp,Version=v6.0": {
+    ".NETCoreApp,Version=v7.0": {
       "URLOpener/0.1.0.1": {
         "dependencies": {
           "Dalamud.ContextMenu": "1.2.1",
-          "DalamudPackager": "2.1.8"
+          "DalamudPackager": "2.1.10"
         },
         "runtime": {
           "URLOpener.dll": {}
@@ -23,7 +23,7 @@
           }
         }
       },
-      "DalamudPackager/2.1.8": {}
+      "DalamudPackager/2.1.10": {}
     }
   },
   "libraries": {
@@ -39,12 +39,12 @@
       "path": "dalamud.contextmenu/1.2.1",
       "hashPath": "dalamud.contextmenu.1.2.1.nupkg.sha512"
     },
-    "DalamudPackager/2.1.8": {
+    "DalamudPackager/2.1.10": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-YqagNXs9InxmqkXzq7kLveImxnodkBEicAhydMXVp7dFjC7xb76U6zGgAax4/BWIWfZeWzr5DJyQSev31kj81A==",
-      "path": "dalamudpackager/2.1.8",
-      "hashPath": "dalamudpackager.2.1.8.nupkg.sha512"
+      "sha512": "sha512-S6NrvvOnLgT4GDdgwuKVJjbFo+8ZEj+JsEYk9ojjOR/MMfv1dIFpT8aRJQfI24rtDcw1uF+GnSSMN4WW1yt7fw==",
+      "path": "dalamudpackager/2.1.10",
+      "hashPath": "dalamudpackager.2.1.10.nupkg.sha512"
     }
   }
 }
